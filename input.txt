@@ -1,0 +1,6 @@
+SUM: 1,2,3
+AVERAGE: 1,2,3,4
+AVERAGE: 1,2,3,4,
+MIN: 1,5,0,8
+MAX: 5,55,66
+sdfdfsffd
