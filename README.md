@@ -7,7 +7,7 @@ The Calculator reads the specified input file and executes the commands within.
 See input.txt for the expected format.
 
 To run type 
-```$> perl amazon.pl input_file_name.txt```
+```$> perl calc.pl input_file_name.txt```
 
 To run tests type
 ```$> perl tests.pl ```
